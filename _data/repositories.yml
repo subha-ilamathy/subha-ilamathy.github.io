@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - subha-ilamathy
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - subha-ilamathy/Multimodal_LPFormer
+  - subha-ilamathy/spark_job_recommendation
+  - subha-ilamathy/SIH_DeepSeeCrime
+  - subha-ilamathy/quora_duplicate_question
+  - subha-ilamathy/ml_intern_projects
+  - subha-ilamathy/Art-Style-Classification-
+  - subha-ilamathy/Auth_project
+  - subha-ilamathy/fall_detection_actions
+  - subha-ilamathy/pycharm_django_ecommerce_app
