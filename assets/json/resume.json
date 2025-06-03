@@ -13,6 +13,11 @@
         "username": "silamathy",
         "url": "https://www.linkedin.com/in/silamathy"
       }
+      {
+        "network": "Github",
+   
+        "url": "https://github.com/subha-ilamathy"
+      }
     ]
   },
   "work": [
@@ -66,12 +71,11 @@
       "highlights": [
         "SmoothQuant",
         "QuantizationModifier",
-        "GSM8K",
-        "MMLU"
+        "Energy-Efficient Deep Learning",
       ],
       "startDate": "2024-01-01",
       "endDate": "2024-06-01",
-      "url": "https://example.com"
+      "url": "https://www.academia.edu/129243406/DeepSeek_Lite_Optimizing_DeepSeek_R1_A_Comparative_Study_on_Quantization_and_Efficient_Inference_Acceleration"
     },
     {
       "name": "AI Research Agent",
@@ -83,7 +87,7 @@
       ],
       "startDate": "2023-08-01",
       "endDate": "2025-05-01",
-      "url": "https://example.com"
+      "url": "https://github.com/subha-ilamathy/argraph"
     },
     {
       "name": "Pinterest Link Prediction",
@@ -95,7 +99,7 @@
       ],
       "startDate": "2024-01-01",
       "endDate": "2024-06-01",
-      "url": "https://example.com"
+      "url": "https://github.com/subha-ilamathy/Multimodal_LPFormer"
     },
     {
       "name": "Real-time Person Tracking System",
@@ -107,7 +111,7 @@
       ],
       "startDate": "2020-01-01",
       "endDate": "2020-07-01",
-      "url": "https://example.com"
+      "url": "https://github.com/subha-ilamathy/SIH_DeepSeeCrime"
     }
   ],
   "publications": [
@@ -115,28 +119,28 @@
       "name": "Temporal Causal Discovery in Complex HPC Network Simulations",
       "publisher": "GCASR 2025 Poster Session",
       "releaseDate": "2025-04-01",
-      "url": "https://example.com",
+      "url": "https://drive.google.com/file/d/1m0-8J2k1PGhBSuWs2nWSQbzCqZZvMhzW/view?usp=sharing",
       "summary": "Accepted at GCASR 2025 Greater Chicago Area Systems Research Poster Session. Explores temporal causal discovery frameworks in high-performance computing simulations."
     },
     {
       "name": "DeepSeek Lite: Optimizing DeepSeek R1",
       "publisher": "Academia.edu Preprint",
       "releaseDate": "2025-01-01",
-      "url": "https://example.com",
+      "url": "https://www.academia.edu/129243406/DeepSeek_Lite_Optimizing_DeepSeek_R1_A_Comparative_Study_on_Quantization_and_Efficient_Inference_Acceleration",
       "summary": "A comparative study on quantization and inference acceleration of the DeepSeek-R1 model."
     },
     {
       "name": "Hardware Accelerated FIM Techniques",
       "publisher": "Academia.edu Preprint",
       "releaseDate": "2024-11-01",
-      "url": "https://example.com",
-      "summary": "Investigates fast image manipulation techniques using hardware-accelerated architectures."
+      "url": "https://www.academia.edu/127111768/Hardware_Accelerated_FIM_Techniques",
+      "summary": "Investigates Frequent Itemset Mining techniques using hardware-accelerated architectures."
     },
     {
       "name": "Multimodal Node Embeddings for Link Prediction on Pinterest",
       "publisher": "Academia.edu Preprint",
       "releaseDate": "2024-09-01",
-      "url": "https://example.com",
+      "url": "https://www.academia.edu/127111752/Multimodal_Node_Embeddings_for_Link_Prediction_on_Pinterest",
       "summary": "Uses GNN and visual-text embeddings to improve link prediction performance on Pinterest\u2019s dataset."
     },
     {
