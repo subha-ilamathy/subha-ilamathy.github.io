@@ -1,19 +1,13 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Subha Ilamathy",
+    "label": "AI Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "mathy.subha@gmail.com",
+    "phone": "(312) 536-6307",
+    "url": "https://subha-ilamathy.github.io/",
+    "summary": "Experienced AI Engineer specialized in LLMs, Vector Search, Deep Learning, Computer Vision",
+
     "profiles": [
       {
         "network": "Twitter",
